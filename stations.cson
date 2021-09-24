@@ -2,8 +2,8 @@
 #       http://www.xspf.org/jspf/
 playlist:
   track: [
-    title: "Antena Zagreb",
-    location: "http://live.antenazagreb.hr:8000/;"
+    title: "Noize Nación Radio | Zeno 128kbps",
+    location: "https://stream.streamaudio.de:8000/noize-nacion-radio;" 
   ,
     title: "Antena Zagreb Dance",
     location: "http://live.antenazagreb.hr:8015/;"
